@@ -1,7 +1,4 @@
-Absolutely — here is the **complete cleaned-up Markdown file** in one block, ready to copy and paste directly into `README.md`.
-
-````markdown
-# 🚀 Rohit's Real-Time Credit Card Fraud Detection Models
+#  Rohit's Real-Time Credit Card Fraud Detection Models
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-00a393.svg)
