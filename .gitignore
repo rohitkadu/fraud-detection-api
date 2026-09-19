@@ -1,4 +1,5 @@
 venv/
+fraud_env/
 __pycache__/
 creditcard.csv
 train_local.py
